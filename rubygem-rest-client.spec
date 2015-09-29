@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rest-client
 Version  : 1.8.0
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rest-client-1.8.0.gem
 Source0  : https://rubygems.org/downloads/rest-client-1.8.0.gem
 Summary  : No detailed summary available
